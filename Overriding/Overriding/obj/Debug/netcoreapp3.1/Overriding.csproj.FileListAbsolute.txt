@@ -1,0 +1,13 @@
+C:\Users\hP\source\repos\Overriding\Overriding\bin\Debug\netcoreapp3.1\Overriding.exe
+C:\Users\hP\source\repos\Overriding\Overriding\bin\Debug\netcoreapp3.1\Overriding.deps.json
+C:\Users\hP\source\repos\Overriding\Overriding\bin\Debug\netcoreapp3.1\Overriding.runtimeconfig.json
+C:\Users\hP\source\repos\Overriding\Overriding\bin\Debug\netcoreapp3.1\Overriding.runtimeconfig.dev.json
+C:\Users\hP\source\repos\Overriding\Overriding\bin\Debug\netcoreapp3.1\Overriding.dll
+C:\Users\hP\source\repos\Overriding\Overriding\bin\Debug\netcoreapp3.1\Overriding.pdb
+C:\Users\hP\source\repos\Overriding\Overriding\obj\Debug\netcoreapp3.1\Overriding.csprojAssemblyReference.cache
+C:\Users\hP\source\repos\Overriding\Overriding\obj\Debug\netcoreapp3.1\Overriding.AssemblyInfoInputs.cache
+C:\Users\hP\source\repos\Overriding\Overriding\obj\Debug\netcoreapp3.1\Overriding.AssemblyInfo.cs
+C:\Users\hP\source\repos\Overriding\Overriding\obj\Debug\netcoreapp3.1\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\hP\source\repos\Overriding\Overriding\obj\Debug\netcoreapp3.1\Overriding.dll
+C:\Users\hP\source\repos\Overriding\Overriding\obj\Debug\netcoreapp3.1\Overriding.pdb
+C:\Users\hP\source\repos\Overriding\Overriding\obj\Debug\netcoreapp3.1\Overriding.genruntimeconfig.cache
